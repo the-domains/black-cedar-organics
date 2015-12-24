@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Herbal Infused Botanicals]]></title>
+        <description><![CDATA[Herbal Infused Botanicals]]></description>
+        <link>http://blackcedarorganics.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Dec 2015 23:19:11 GMT</lastBuildDate>
+        <atom:link href="http://blackcedarorganics.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/Black-Cedar-Organics-787668034578156/</link>
+            <guid isPermaLink="false">e1ae1f67-cc44-491b-a432-7cc55b101cfa</guid>
+            <pubDate>Thu, 24 Dec 2015 23:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/Black-Cedar-Organics-787668034578156/</link>
+            <guid isPermaLink="false">3a993233-133c-4c9a-bed6-12699fa4c6f8</guid>
+            <pubDate>Thu, 24 Dec 2015 23:18:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
