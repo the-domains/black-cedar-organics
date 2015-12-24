@@ -1,7 +1,7 @@
 name: Black Cedar Organics
 favicon: null
-layout_spectrum: 0.9010667738039047
-typography_spectrum: 0.14627971197478473
+layout_spectrum: 0.95773
+typography_spectrum: 0.52795
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#231f20'
+    - '#f0f0f0'
+    - '#777576'
+    - '#979596'
+    - '#b9b7b8'
   brandStrength: 0.05669433530420065
-  lightness: 0.8714092541486025
-  saturation: 0.08837685687467456
-  rhythmicContrast: 0.911898109363392
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
